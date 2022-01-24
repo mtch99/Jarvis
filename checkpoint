@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/maximetchagou/PycharmProjects/Jarvis/model.tflearn"
+all_model_checkpoint_paths: "/Users/maximetchagou/PycharmProjects/Jarvis/model.tflearn"
